@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # notes_crud_isar
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# notes_crud_isar
+>>>>>>> 9ec596a8e99b8dbe23287f66fcee47aa1af1feb1
